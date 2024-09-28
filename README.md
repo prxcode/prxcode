@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm a Web Developer</h1>
+<h1 align="center">Hi 👋, I am Priyanshu</h1>
 <h3 align="center">A passionate Web Developer & Graphic Designer</h3>
 
 <img align="right" alt="coding" width="200" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif">
