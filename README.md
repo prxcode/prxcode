@@ -9,7 +9,7 @@
 
 - 🤝 I have successfully helped various clients establish their brands by creating professional websites and managing their social media presence. My services include designing and posting banners and promotional content.
 
-- 👨‍💻 You can view all of my projects on [GitHub](https://github.com/artisticpy?tab=projects).
+- 👨‍💻 You can view all of my projects on [GitHub](https://github.com/artisticpy?tab=repositories).
 
 - 🎨 Connect with me on Instagram at [@artistic.py](https://instagram.com/artistic.py) to see examples of my work, including banners and posters.
 
