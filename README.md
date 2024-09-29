@@ -3,7 +3,7 @@
 
 <img align="right" alt="coding" width="200" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif">
 
-- 📚 I’m an undergraduate student pursuing Computer Science, and I enjoy freelancing as a hobby.
+- 📚 I am Priyanshu, a programmer and brand designer skilled in Python and learning C & shell scripting. I enjoy freelancing as a hobby.
 
 - 🔗 I’m looking to collaborate on innovative projects that require a cohesive online presence, from website development to social media branding.
 
