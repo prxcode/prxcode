@@ -41,13 +41,16 @@
 
 ---
 
-[![](https://streak-stats.demolab.com?user=ysh1th&theme=rising-sun&hide_border=true&border_radius=4.3)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=artisticpy&theme=shadow-green&hide_border=true)](https://git.io/streak-stats)
+
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ysh1th&theme=maroongold&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
 
 </div>
 
 <div align="center">
 <br/>
-<img alt="My GitHub Statistics" src="https://github-readme-stats.vercel.app/api/top-langs/?username=artisticpy&langs_count=8&layout=compact&theme=radical" height="192px"/>
+<img alt="My GitHub Statistics" src="https://github-readme-stats.vercel.app/api/top-langs/?username=artisticpy&langs_count=8&layout=compact&theme=dark" height="192px"/>
 <br/>
 </div>
+
+
