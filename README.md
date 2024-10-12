@@ -23,12 +23,13 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/artistic.py" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/artisticpy/artisticpy/icons/ytpix.svg" alt="artistic.py" height="30" width="40" />
+<img align="center" src="https://raw.githubusercontent.com/artisticpy/artisticpy/main/icons/instapix.jpg" alt="artistic.py" height="30" width="40" />
 </a>
 <a href="https://www.youtube.com/@artisticpy" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/artisticpy/artisticpy/icons/ytpix.svg" alt="devopsshack" height="30" width="40" />
+<img align="center" src="https://raw.githubusercontent.com/artisticpy/artisticpy/main/icons/ytpix.svg" alt="artistic.py" height="30" width="40" />
 </a>
 </p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
