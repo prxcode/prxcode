@@ -76,7 +76,7 @@
 </div>
 
 <!-- 
-     This content is protected. 
+     This content is protected
      Watermark: artistic.py 
 -->
 
