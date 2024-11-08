@@ -39,7 +39,7 @@
 
 <p>👨‍💻 You can view all of my projects on <a href="https://github.com/artisticpy?tab=repositories" target="_blank">GitHub</a>.</p>
 
-<p>🎨 Connect with me on Instagram at <a href="https://instagram.com/artistic.py" target="_blank">@artistic.py</a> to see examples of my work, including banners and posters.</p>
+<p>🎨 Connect with me on Instagram at <a href="https://instagram.com/artisticpy" target="_blank">@artisticpy</a> to see examples of my work, including banners and posters.</p>
 
 <p>⚡ Hobbies: I like Photography!</p>
 <!-- 
