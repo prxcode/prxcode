@@ -25,7 +25,7 @@
 <div align="center">
     <img src="https://i.pinimg.com/originals/fb/c6/f3/fbc6f31bd3b84159470b973aca7e0f97.gif" alt="Welcome GIF">
 </div>
-<h3 align="center">A passionate Web Developer & Graphic Designer.</h3>
+<h3 align="center">A passionate Developer & Graphic Designer.</h3>
 
 <p align="left">
     <img src="https://komarev.com/ghpvc/?username=artisticpy&label=Profile%20views&color=0e75b6&style=flat" alt="artisticpy" />
