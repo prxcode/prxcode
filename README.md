@@ -18,7 +18,7 @@
 -->
 <!-- 
      This content is protected! 
-     Watermark: artistic.py 
+     Watermark: prxcode 
 -->
 
 <h1 align="center">Hey Everyone 👋, I'm Priyanshu</h1>
@@ -28,7 +28,7 @@
 <h3 align="center">A passionate Developer & Graphic Designer.</h3>
 
 <p align="left">
-    <img src="https://komarev.com/ghpvc/?username=artisticpy&label=Profile%20views&color=0e75b6&style=flat" alt="artisticpy" />
+    <img src="https://komarev.com/ghpvc/?username=prxcode&label=Profile%20views&color=0e75b6&style=flat" alt="prxcode" />
 </p>
 
 <p>📚 I am Priyanshu, a programmer and brand designer skilled in Python and learning C & shell scripting. I enjoy freelancing as a hobby.</p>
@@ -44,16 +44,16 @@
 <p>⚡ Hobbies: I like Photography!</p>
 <!-- 
      This content is protected. 
-     Watermark: artistic.py 
+     Watermark: prxcode 
 -->
 
 ## 🔗 Connect with Me
 
 <div align="left">
-  <a href="https://instagram.com/artistic.py" target="_blank">
+  <a href="https://instagram.com/prx.design" target="_blank">
       <img align="center" src="https://raw.githubusercontent.com/artisticpy/artisticpy/main/icons/instapix.png" alt="artistic.py" height="25" width="25" />
   </a>
-  <a href="https://www.youtube.com/@artisticpy" target="_blank">
+  <a href="https://www.youtube.com/@prx-design" target="_blank">
       <img align="center" src="https://raw.githubusercontent.com/artisticpy/artisticpy/main/icons/ytpix.svg" alt="artistic.py" height="30" width="30" />
   </a>
 </div>
@@ -87,12 +87,12 @@ You can view my full portfolio here: [Portfolio](https://artisticpy.netlify.app)
 <br>
 <!-- 
      This content is protected
-     Watermark: artistic.py 
+     Watermark: prxcode 
 -->
 
 <div align="center">
    <br/>
-    <img alt="My GitHub Statistics" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=artisticpy&langs_count=8&layout=compact&theme=dark" height="192px"/>
+    <img alt="My GitHub Statistics" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=prxcode&langs_count=8&layout=compact&theme=dark" height="192px"/>
     <br/>
 </div>
 <!-- 
