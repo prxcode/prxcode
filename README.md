@@ -51,10 +51,10 @@
 
 <div align="left">
   <a href="https://instagram.com/prx.design" target="_blank">
-      <img align="center" src="https://raw.githubusercontent.com/artisticpy/artisticpy/main/icons/instapix.png" alt="artistic.py" height="25" width="25" />
+      <img align="center" src="https://raw.githubusercontent.com/prxcode/prxcode/main/icons/instapix.png" alt="prx.design" height="25" width="25" />
   </a>
   <a href="https://www.youtube.com/@prx-design" target="_blank">
-      <img align="center" src="https://raw.githubusercontent.com/artisticpy/artisticpy/main/icons/ytpix.svg" alt="artistic.py" height="30" width="30" />
+      <img align="center" src="https://raw.githubusercontent.com/prxcode/prxcode/main/icons/ytpix.svg" alt="prx-design" height="30" width="30" />
   </a>
 </div>
 
