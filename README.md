@@ -37,9 +37,9 @@
 
 <p>🤝 I have successfully helped various clients establish their brands by creating professional websites and managing their social media presence. My services include designing and posting banners and promotional content.</p>
 
-<p>👨‍💻 You can view all of my projects on <a href="https://github.com/artisticpy?tab=repositories" target="_blank">GitHub</a>.</p>
+<p>👨‍💻 You can view all of my projects on <a href="https://github.com/prxcode?tab=repositories" target="_blank">GitHub</a>.</p>
 
-<p>🎨 Connect with me on Instagram at <a href="https://instagram.com/artisticpy" target="_blank">@artisticpy</a> to see examples of my work, including banners and posters.</p>
+<p>🎨 Connect with me on Instagram at <a href="https://instagram.com/prx.design" target="_blank">@prx.design</a> to see examples of my work, including banners and posters.</p>
 
 <p>⚡ Hobbies: I like Photography!</p>
 <!-- 
