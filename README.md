@@ -57,9 +57,9 @@
 
 <br>
 
-## 🌐 My Portfolio
+## 🌐 null.net
 
-You can view my full portfolio here: [Portfolio](https://nullnet.netlify.app).
+click here: [null.net](https://nullnet.netlify.app).
 
 <br>
 
