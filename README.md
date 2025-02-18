@@ -31,15 +31,15 @@
     <img src="https://komarev.com/ghpvc/?username=prxcode&label=Profile%20views&color=0e75b6&style=flat" alt="prxcode" />
 </p>
 
-<p>📚 I am Priyanshu, a programmer and brand designer skilled in Python and learning C & shell scripting. I enjoy freelancing as a hobby.</p>
+<p> I am Priyanshu, a programmer and a cs student.</p>
 
-<p>🔗 I’m looking to collaborate on innovative projects that require a cohesive online presence, from website development to social media branding.</p>
+<p>🔗 I’m looking to collaborate on innovative projects.</p>
 
-<p>🤝 I have successfully helped various clients establish their brands by creating professional websites and managing their social media presence. My services include designing and posting banners and promotional content.</p>
+<p>🤝 I have successfully helped various clients establish their brands by creating professional websites and now my focus is towards developing more advance skills to better than yesterday!</p>
 
 <p>👨‍💻 You can view all of my projects on <a href="https://github.com/prxcode?tab=repositories" target="_blank">GitHub</a>.</p>
 
-<p>🎨 Connect with me on Instagram at <a href="https://instagram.com/prx.design" target="_blank">@prx.design</a> to see examples of my work, including banners and posters.</p>
+<p>🎨 Connect with me on Instagram at <a href="https://instagram.com/prx.code" target="_blank">@prx.code</a></p>
 
 <p>⚡ Hobbies: I like Photography!</p>
 <!-- 
@@ -62,7 +62,7 @@
 
 ## 🌐 My Portfolio
 
-You can view my full portfolio here: [Portfolio](https://artisticpy.netlify.app).
+You can view my full portfolio here: [Portfolio](https://nullnet.netlify.app).
 
 <br>
 
