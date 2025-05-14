@@ -21,9 +21,9 @@
      Watermark: prxcode 
 -->
 
-<h1 align="center">Hey Everyone 👋, I'm Priyanshu</h1>
+<h1 align="center">Hey! I'm Priyanshu</h1>
 <div align="center">
-    <img src="https://i.pinimg.com/originals/fb/c6/f3/fbc6f31bd3b84159470b973aca7e0f97.gif" alt="Welcome GIF">
+    <img src="https://user-images.githubusercontent.com/119114162/224994258-80e12746-1bc3-4502-ac06-52570e2c7a83.gif" alt="Welcome GIF">
 </div>
 <h3 align="center">A passionate Programmer.</h3>
 
@@ -31,15 +31,15 @@
     <img src="https://komarev.com/ghpvc/?username=prxcode&label=Profile%20views&color=0e75b6&style=flat" alt="prxcode" />
 </p>
 
-<p> I am Priyanshu, a programmer and a cs student.</p>
+<p> 🌱 I am Priyanshu, Computer Science student.  
 
-<p>🔗 I’m looking to collaborate on innovative projects.</p>
+<p>💻 Currently immersed in the world of Linux. </p>
 
 <p>🤝 I have successfully helped various clients establish their brands by creating professional websites and now my focus is towards developing more advance skills to better than yesterday!</p>
 
 <p>👨‍💻 You can view all of my projects on <a href="https://github.com/prxcode?tab=repositories" target="_blank">GitHub</a>.</p>
 
-<p>🎨 Connect with me on Instagram at <a href="https://instagram.com/prx.code" target="_blank">@prx.code</a></p>
+<p>🎨 My Developer Meme page on Instagram at <a href="https://instagram.com/prx.code" target="_blank">@prx.code</a></p>
 
 <p>⚡ Hobbies: I like Photography!</p>
 <!-- 
@@ -57,29 +57,15 @@
 
 <br>
 
-## 🌐 null.net
+## 🌐 Building null.net
 
 click here: [null.net](https://nullnet.netlify.app).
 
 <br>
 
-## 🛠️ Languages and Tools
+## 🛠️ Skills
 
-<div align="center">
-  <h4>Tools I use:</h4>
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
-  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
-  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white">
-  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
-  <img src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white">
-  <img src="https://img.shields.io/badge/Kali%20Linux-557C94.svg?style=for-the-badge&logo=Kali-Linux&logoColor=white">
-  <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe-Premiere-Pro&logoColor=white">
-</div>
+
 
 <br>
 <!-- 
@@ -88,10 +74,45 @@ click here: [null.net](https://nullnet.netlify.app).
 -->
 
 <div align="center">
+
+
+
+
+
+
+<div align="Center">
+
+| Website | Programming |
+| ------------- | ------------- |
+| <img src="https://skillicons.dev/icons?i=html,css,js,figma,react"/> | <img src="https://skillicons.dev/icons?i=bash,py,c,sublime,github"/> |
+
+</div>
+
+<br>
+<br>
+<br>
+
+<div align="Center">
+<h1>Operating Systems</h1>
+
+<img src="https://skillicons.dev/icons?i=windows,kali,linux"/>
+
+</div>
+
+<br>
+<br>
+
+| Snake Eating my Contributions  |
+| ------------------------------------------|
+| ![snakkeee](https://github.com/user-attachments/assets/767354e9-fe1e-4009-b421-2f49388bfda5) | 
+
+
+<!----
+<div align="center">
    <br/>
     <img alt="My GitHub Statistics" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=prxcode&langs_count=8&layout=compact&theme=dark" height="192px"/>
     <br/>
-</div>
+</div> --->
 <!-- 
      This content is protected. 
      Watermark: artistic.py 
