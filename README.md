@@ -95,7 +95,7 @@ click here: [null.net](https://nullnet.netlify.app).
 <div align="Center">
 <h1>Operating Systems</h1>
 
-<img src="https://skillicons.dev/icons?i=windows,kali,linux"/>
+<img src="https://skillicons.dev/icons?i=windows,kali"/>
 
 </div>
 
