@@ -59,7 +59,7 @@
 
 ## 🌐 Building null.net
 
-click here: [null.net](https://nullnet.netlify.app).
+click here: [null.net](https://nullnet.vercel.app).
 
 <br>
 
