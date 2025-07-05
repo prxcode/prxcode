@@ -84,7 +84,7 @@ click here: [null.net](https://nullnet.vercel.app).
 
 | Website | Programming |
 | ------------- | ------------- |
-| <img src="https://skillicons.dev/icons?i=html,css,js,figma,react"/> | <img src="https://skillicons.dev/icons?i=bash,py,c,sublime,github"/> |
+| <img src="https://skillicons.dev/icons?i=html,css,js,figma,react"/> | <img src="https://skillicons.dev/icons?i=bash,py,c,vim,github"/> |
 
 </div>
 
