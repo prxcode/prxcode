@@ -57,9 +57,8 @@
 
 <br>
 
-## 🌐 Building null.net
-
-click here: [null.net](https://nullnet.vercel.app).
+## 🌐 Building my tech group 
+If anyone intrested contact me...
 
 <br>
 
