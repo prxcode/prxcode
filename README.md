@@ -55,11 +55,6 @@
 
 <br>
 
-## 🌐 Building my tech group 
-If anyone intrested contact me...
-
-<br>
-
 ## 🛠️ Skills
 
 
