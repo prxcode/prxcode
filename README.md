@@ -39,9 +39,7 @@
 
 <p>👨‍💻 You can view all of my projects on <a href="https://github.com/prxcode?tab=repositories" target="_blank">GitHub</a>.</p>
 
-<p>🎨 My Developer Meme page on Instagram at <a href="https://instagram.com/prx.code" target="_blank">@prx.code</a></p>
-
-<p>⚡ Hobbies: I like Photography!</p>
+<p>⚡ Hobbies: I like Photography! <a href="https://instagram.com/pixels.py" target="_blank">@pixels.py</a></p>
 <!-- 
      This content is protected. 
      Watermark: prxcode 
