@@ -25,7 +25,7 @@
 <div align="center">
     <img src="https://user-images.githubusercontent.com/119114162/224994258-80e12746-1bc3-4502-ac06-52570e2c7a83.gif" alt="Welcome GIF">
 </div>
-<h3 align="center">A passionate Programmer.</h3>
+<h3 align="center">A Programmer.</h3>
 
 <p align="left">
     <img src="https://komarev.com/ghpvc/?username=prxcode&label=Profile%20views&color=0e75b6&style=flat" alt="prxcode" />
