@@ -76,7 +76,7 @@
 
 | Website | Programming |
 | ------------- | ------------- |
-| <img src="https://skillicons.dev/icons?i=html,css,js,figma,react"/> | <img src="https://skillicons.dev/icons?i=bash,py,c,vim,github"/> |
+| <img src="https://skillicons.dev/icons?i=html,css,js,figma,react"/> | <img src="https://skillicons.dev/icons?i=java,py,c,vim,github"/> |
 
 </div>
 
