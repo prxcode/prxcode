@@ -23,7 +23,7 @@
 
 <h1 align="center">Hey! I'm Priyanshu</h1>
 <div align="center">
-    <img src="https://user-images.githubusercontent.com/119114162/224994258-80e12746-1bc3-4502-ac06-52570e2c7a83.gif" alt="Welcome GIF">
+    <img src="https://img.devrant.com/devrant/rant/r_462432_ZzKQZ.gif" alt="Welcome GIF">
 </div>
 <h3 align="center">A Programmer.</h3>
 
@@ -31,21 +31,21 @@
     <img src="https://komarev.com/ghpvc/?username=prxcode&label=Profile%20views&color=0e75b6&style=flat" alt="prxcode" />
 </p>
 
-<p> 🌱 I am Priyanshu, Computer Science student.  
+<p> > I am Priyanshu, Computer Science student.  
 
-<p>💻 Currently immersed in the world of Linux. </p>
+<p> > Currently immersed in the world of Linux. </p>
 
-<p>🤝 I have successfully helped various clients establish their brands by creating professional websites and now my focus is towards developing more advance skills to better than yesterday!</p>
+<p> > I have successfully helped various clients establish their brands by creating professional websites and now my focus is towards developing more advance skills to better than yesterday!</p>
 
-<p>👨‍💻 You can view all of my projects on <a href="https://github.com/prxcode?tab=repositories" target="_blank">GitHub</a>.</p>
+<p> > You can view all of my projects on <a href="https://github.com/prxcode?tab=repositories" target="_blank">GitHub</a>.</p>
 
-<p>⚡ Hobbies: I like <a href="https://instagram.com/pixels.py" target="_blank">Photography!</a></p>
+<p> > Hobbies: I like <a href="https://instagram.com/pixels.py" target="_blank">Photography!</a></p>
 <!-- 
      This content is protected. 
      Watermark: prxcode 
 -->
 
-## 🔗 Connect with Me
+## Connect with Me
 
 <div align="left">
   <a href="https://instagram.com/prx.code" target="_blank">
@@ -55,7 +55,7 @@
 
 <br>
 
-## 🛠️ Skills
+## Skills
 
 
 
