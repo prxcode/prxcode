@@ -45,13 +45,7 @@
      Watermark: prxcode 
 -->
 
-## Connect with Me
 
-<div align="left">
-  <a href="https://instagram.com/prx.code" target="_blank">
-      <img align="center" src="https://raw.githubusercontent.com/prxcode/prxcode/main/icons/instapix.png" alt="prx.design" height="25" width="25" />
-  </a>
-</div>
 
 <br>
 
