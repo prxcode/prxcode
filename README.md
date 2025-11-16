@@ -13,8 +13,6 @@
 
 <p> > I have successfully helped various clients establish their brands by creating professional websites and now my focus is towards developing more advance skills.</p>
 
-<p> > You can view all of my projects on <a href="https://github.com/prxcode?tab=repositories" target="_blank">GitHub</a>.</p>
-
 <p> > Hobbies: I like <a href="https://instagram.com/pixels.py" target="_blank">Photography!</a></p>
 
 
@@ -30,10 +28,6 @@
 
 <br>
 <br>
-<br>
-
-
-
 <br>
 <br>
 
