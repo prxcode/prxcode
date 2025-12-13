@@ -1,6 +1,6 @@
 <h1 align="center">Hey! I'm Priyanshu</h1>
 <div align="center">
-    <img src="https://img.devrant.com/devrant/rant/r_462432_ZzKQZ.gif" alt="Welcome GIF">
+    <img src="https://i.pinimg.com/originals/da/0b/96/da0b965a91d6a9117ac47710a5e9341c.gif" alt="Welcome GIF">
 </div>
 
 <p align="left">
