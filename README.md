@@ -30,12 +30,11 @@
 <br>
 <br>
 <br>
-<div align="center">
-  <img src="https://raw.githubusercontent.com/prxcode/prxcode/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-</div>
+
 
 | Snake Eating my Contributions  |
 | ------------------------------------------|
-| ![snakkeee](https://github.com/user-attachments/assets/767354e9-fe1e-4009-b421-2f49388bfda5) | 
+|  <img src="https://raw.githubusercontent.com/prxcode/prxcode/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />|
+
 </body>
 </html>
