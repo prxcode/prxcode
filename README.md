@@ -30,6 +30,9 @@
 <br>
 <br>
 <br>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/prxcode/prxcode/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</div>
 
 | Snake Eating my Contributions  |
 | ------------------------------------------|
