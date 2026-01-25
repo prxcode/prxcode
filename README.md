@@ -31,7 +31,6 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=prxcode&show_icons=true&theme=tokyonight&count_private=true&hide_rank=true&hide_border=true" height="150" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=prxcode&theme=tokyonight&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prxcode&layout=compact&theme=tokyonight&hide_border=true" height="150" />
 </div>
 
 <h1>Contributions</h1>
