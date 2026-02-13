@@ -5,12 +5,12 @@
     <img src="https://komarev.com/ghpvc/?username=prxcode&label=Profile%20views&color=0e75b6&style=flat" alt="prxcode" />
 </p>
 <p> <b>Student | Backend & Security Focus</b></p>
-<p> <i>Building distributed systems and self-healing architectures.</i></p>
+<p> <i>Building scalable backend systems with a strong emphasis on security and reliability.</i></p>
 
 ### Core Focus
-- **Systems Programming:** Implementation of patterns and logic in C and Java.
-- **Infrastructure:** Linux system administration, shell scripting, and network security.
-- **Web Development:** Full-stack architecture with a focus on performance and deployment.
+- **Systems Programming:** Implementing design patterns and efficient algorithms using C and Java.
+- **Infrastructure:** Linux administration, shell scripting, and foundational network security.
+- **Web Development:** Designing full-stack architectures with emphasis on performance, scalability, and deployment.
 
 > Hobbies: I like <a href="https://instagram.com/pixels.py" target="_blank">Photography!</a>
 
