@@ -17,9 +17,9 @@
 <h1>Technical Stack</h1> 
 <div align="center">
 
-| Backend & Systems | Frontend & Web | DevOps & Security |
-| ------------- | ------------- | ------------- |
-| <img src="https://skillicons.dev/icons?i=java,c,py,nodejs&there=dark"/> | <img src="https://skillicons.dev/icons?i=react,nextjs,js,vercel&theme=dark"/> | <img src="https://skillicons.dev/icons?i=linux,bash,docker,kali&theme=dark"/> |
+| Backend Engineering | Cloud & Deployment | Security & Systems |
+| --- | --- | --- |
+| <img src="https://skillicons.dev/icons?i=java,cs,net,postgres,mysql&theme=dark" /> | <img src="https://skillicons.dev/icons?i=vercel,react,azure,docker,githubactions&theme=dark" /> | <img src="https://skillicons.dev/icons?i=python,linux,bash,c,kali&theme=dark" /> |
 
 </div>
 <br>
@@ -27,10 +27,9 @@
 
 
 <br>
-<h1>My Stats</h1>
+<h1>My GitHub Stats</h1>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prxcode&show_icons=true&theme=tokyonight&count_private=true&hide_rank=true&hide_border=true" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prxcode&theme=tokyonight&hide_border=true" height="150" />
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=prxcode&theme=vitesse&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=900&card_height=200" alt="GitHub Streak" /></a>
 </div>
 
 <h1>Contributions</h1>
