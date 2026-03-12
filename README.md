@@ -19,7 +19,7 @@
 
 | Backend Engineering | Cloud & Deployment | Security & Systems |
 | --- | --- | --- |
-| <img src="https://skillicons.dev/icons?i=java,cs,spring,postgres,mysql&theme=dark" /> | <img src="https://skillicons.dev/icons?i=vercel,react,azure,docker,githubactions&theme=dark" /> | <img src="https://skillicons.dev/icons?i=python,linux,bash,c,kali&theme=dark" /> |
+| <img src="https://skillicons.dev/icons?i=java,spring,postgres,mysql&theme=dark" /> | <img src="https://skillicons.dev/icons?i=vercel,react,docker,githubactions&theme=dark" /> | <img src="https://skillicons.dev/icons?i=python,linux,bash,c&theme=dark" /> |
 
 </div>
 <br>
