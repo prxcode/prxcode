@@ -4,7 +4,7 @@
 <p align="left">
     <img src="https://komarev.com/ghpvc/?username=prxcode&label=Profile%20views&color=0e75b6&style=flat" alt="prxcode" />
 </p>
-<p> <b>Student | Backend & Security Focus</b></p>
+<p> <b>Backend Engineer specializing in Security & Distributed Systems</b></p>
 <p> <i>Building scalable backend systems with a strong emphasis on security and reliability.</i></p>
 
 ### Core Focus
