@@ -1,0 +1,31 @@
+{
+  "tabnine.experimentalAutoImports": true,
+  "terminal.integrated.cwd": "C:\\Users\\<username>\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Visual Studio Code",
+  "liveServer.settings.CustomBrowser": "chrome",
+  "liveServer.settings.AdvanceCustomBrowserCmdLine": "",
+  "liveServer.settings.NoBrowser": true,
+  "workbench.iconTheme": "vs-seti",
+  "workbench.productIconTheme": "material-product-icons",
+
+  "C_Cpp_Runner.enableWarnings": true,
+  "C_Cpp_Runner.warningsAsError": false,
+  "C_Cpp_Runner.compilerArgs": [],
+  "C_Cpp_Runner.linkerArgs": [],
+  "C_Cpp_Runner.includePaths": [],
+  "C_Cpp_Runner.includeSearch": [
+    "*",
+    "**/*"
+  ],
+  "window.menuBarVisibility": "compact",
+  "workbench.activityBar.location": "top",
+  "workbench.colorTheme": "GitHub Dark",
+  "vscode-pets.theme": "forest",
+  "vscode-pets.throwBallWithMouse": true,
+  "vscode-pets.petType": "panda",
+  "vscode-pets.petColor": "black",
+  "vscode-pets.petSize": "small",
+  "workbench.colorCustomizations": {
+    },
+  "window.controlsStyle": "custom",
+  "window.titleBarStyle": "custom"
+}
