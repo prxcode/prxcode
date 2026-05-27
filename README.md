@@ -4,7 +4,7 @@ I'm Priyanshu, a computer science undergrad & backend/security dev from dubai wi
 
 *Personal:* [LinkedIn](https://www.linkedin.com/in/priyanshusingh10/) • [Portfolio](https://www.priyanshusingh.me/)
 
-I have served as the Web Lead for our IEEE Student Branch and Tech Ambassador for the Microsoft Tech Club. I'm currently working on several projects and always looking to tackle new challenges in backend development and security. If you're intrested in what I'm building, please check out my repositories below and feel free to contact me.
+I have served as the Web Lead for our IEEE Student Branch and Tech Ambassador for the Microsoft Tech Club. I'm currently working on several projects and always looking to tackle new challenges in backend development and security. If you're interested in what I'm building, please check out my repositories below and feel free to contact me.
 
 
 
